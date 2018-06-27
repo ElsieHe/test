@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" verion = "1" parallel = "false" thread-count="1">
+    <test name="test">
+        <classes>
+            <class name = "com.testng.demo.TestNGDemo2" />
+        </classes>
+    </test>
+</suite>

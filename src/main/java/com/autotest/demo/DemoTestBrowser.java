@@ -16,7 +16,7 @@ public class DemoTestBrowser {
     /**
      * 打开浏览器首页
      * */
-    WebDriver driver;
+    private WebDriver driver;
     @BeforeClass
     public void newDriver()
     {
